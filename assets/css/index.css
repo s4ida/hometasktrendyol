@@ -1,0 +1,442 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: white
+}
+#navbar{
+    width: 100%;
+    height: 150px;
+    background-color: white;
+   
+}
+.mydiv{
+    height: 33%;
+    width: 100%;
+    background-color: white;
+    color: gray;
+    font-size: 10px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: flex-end;
+    cursor: pointer;
+
+}
+.div1{
+    height: 33%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+}
+.logo1{
+    height: 100%;
+    width: 120px;
+}
+
+.input{
+    width: 550px;
+    height: 80%;
+    border: 0px;
+    background-color: gainsboro;
+color: gray;
+border-radius: 3px;
+
+}
+
+.div4{
+    height: 100%;
+    background-color: white;
+    width: 320px;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+justify-content: space-around;
+cursor: pointer;
+}
+.div5{
+    width: 100%;
+    height: 34%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    cursor: pointer;
+   font-size: 15px;
+}
+.div3{
+    height: 90%;
+    width: 660px;
+    background-color: gainsboro;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+}
+.btnsearch{
+    height: 80%;
+    width: 60px;
+    border: 0;
+    background-color: gainsboro;
+    color: orangered;
+    border-radius: 3px;
+    cursor: pointer;
+    
+}
+.sheet{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+}
+.logopuma{
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   gap: 20px;
+}
+.puma{
+    height: 50%;
+    width: 100%;
+    background-color: white;
+   
+}
+
+.logo2{
+    height: 100%;
+    width: 100%;
+}
+.logobershka{
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   gap: 20px;
+}
+.bershka{
+    height: 50%;
+    width: 100%;
+    
+}
+.logo3{
+    height: 100%;
+    width: 100%;
+}
+.logopenti{
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   gap: 20px;
+}
+.penti{
+    height: 50%;
+    width: 100%;
+}
+.logo4{
+    height: 100%;
+    width: 100%;
+}
+.logokoton{
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   gap: 20px;
+}
+.koton{
+    height: 50%;
+    width: 100%;
+}
+.logo5{
+    height: 100%;
+    width: 100%;
+}
+.logovestel{
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   gap: 20px;
+}
+.vestel{
+    height: 50%;
+    width: 100%;
+}
+.logo6{
+    height: 100%;
+    width: 100%;
+}
+.logomango{
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   gap: 20px;
+}
+.mango{
+    height: 50%;
+    width: 100%;
+}
+.logo7{
+    height: 100%;
+    width: 100%;
+}
+.logoarzum{
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   gap: 20px;
+}
+.arzum{
+    height: 50%;
+    width: 100%;
+}
+.logo8{
+    height: 100%;
+    width: 100%;
+}
+.logobosch{
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   gap: 20px;
+}
+.bosch{
+    height: 50%;
+    width: 100%;
+}
+.logo9{
+    height: 100%;
+    width: 100%;
+}
+.logomavi{
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   gap: 20px;
+}
+.mavi{
+    height: 50%;
+    width: 100%;
+}
+.logo10{
+    height: 100%;
+    width: 100%;
+}
+.logodyson{
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   gap: 20px;
+}
+.dyson{
+    height: 50%;
+    width: 100%; 
+}
+.logo11{
+    height: 100%;
+    width: 100%;
+}
+.sheet3{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-left: 20px;
+
+   
+}
+.head2{
+    width: 200%;
+    height: 70px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+   gap: 22px;
+}
+.greendiv{
+   height: 60%;
+   width: 36%;
+}
+.yellowdiv{
+    height: 60%;
+    width: 36%;  
+}
+.reddiv{
+    height: 60%;
+    width: 36%;  
+}
+.sheet4{
+    width: 300px;
+    height: 250px;
+    background-color: brown;
+    border-radius: 10px;
+    
+}
+.photo1{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.buttonone{
+    width: 100%;
+    height: 15%;
+    background-color: black;
+    color: white;
+    border: 0;
+    border-end-end-radius: 10px;
+    cursor: pointer;
+
+}
+.buttonone:hover {background-color: orangered;
+}
+.sheet5{
+    width: 300px;
+    height: 250px;
+    background-color: brown;
+    border-radius: 10px; 
+}
+.photo2{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.buttontwo{
+    width: 100%;
+    height: 15%;
+    background-color: black;
+    color: white;
+    border: 0;
+    border-end-end-radius: 10px;
+    cursor: pointer;
+}
+.buttontwo:hover {background-color: orangered;
+}
+
+.sheet6{
+    width: 300px;
+    height: 250px;
+    background-color: brown;
+    border-radius: 10px; 
+    cursor: pointer;
+}
+.photo3{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.btnn3{
+    width: 100%;
+    height: 15%;
+    background-color: black;
+    color: white;
+    border: 0;
+    border-end-end-radius: 10px;
+    border-bottom-left-radius: 10px;
+   
+}
+.btnn3:hover {background-color: orangered;
+}
+.sheet7{
+    width: 300px;
+    height: 250px;
+    background-color: brown;
+    border-radius: 10px; 
+    cursor: pointer;
+}
+.photo4{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.btnn4{
+    width: 100%;
+    height: 15%;
+    background-color: black;
+    color: white;
+    border: 0;
+    border-end-end-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+}
+.btnn4:hover {background-color: orangered;
+}
+.sheet8{
+    width: 300px;
+    height: 250px;
+    background-color: brown;
+    border-radius: 10px; 
+    cursor: pointer;
+}
+.photo5{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.btnn5{
+    width: 100%;
+    height: 15%;
+    background-color: black;
+    color: white;
+    border: 0;
+    border-end-end-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+}
+.btnn5:hover {background-color: orangered;
+}
+.sheet9{
+    width: 300px;
+    height: 250px;
+    background-color: brown;
+    border-radius: 10px; 
+    cursor: pointer;
+}
+.photo6{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.btnn6{
+    width: 100%;
+    height: 15%;
+    background-color: black;
+    color: white;
+    border: 0;
+    border-end-end-radius: 10px;
+    border-bottom-left-radius: 10px;
+   
+}
+.btnn6:hover {background-color: orangered;
+}
